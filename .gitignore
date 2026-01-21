@@ -1,0 +1,23 @@
+# Gradle cache
+.gradle/
+
+# Gradle build output
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment / secrets
+application.properties
+application.yml
+
+# Compiled class files
+*.class
